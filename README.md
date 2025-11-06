@@ -1,4 +1,4 @@
-# DataAnalysis2025-theorling
+# Data Analysis 2025
 
 Programming seminars in Python for Second Year Linguistics Master students
 
