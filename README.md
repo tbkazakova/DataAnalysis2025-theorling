@@ -9,7 +9,7 @@ Fri (+ Wed, Sat), 18.10 - 21.00
 ### Instructor
 * Tania Kazakova (Tania, Таня Казакова)
 
-### Grade calculator
+### Grade calculator (approximately)
 * **30% - assignment 1** (can be completed on the evening for the max. of 10 points, within a week of the distribution for the max. of 8 points, within two weeks of the distribution for the max. of 6 points)
 * **30% - assignment 2** (can be completed on the evening for the max. of 10 points, within a week of the distribution for the max. of 8 points, within two weeks of the distribution for the max. of 6 points)
 * **10% - assignment 3** (can be completed on the evening for the max. of 10 points, within a week of the distribution for the max. of 8 points, within two weeks of the distribution for the max. of 6 points)
@@ -95,8 +95,7 @@ If you opt out of attending the class because you've had training in Python befo
   </tr>
     <tr>
     <td>12.12</td>
-    <td>seminar by Anton B. :)<br>
-    Graphs</td>
+    <td>seminar by Anton B. :)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -104,7 +103,7 @@ If you opt out of attending the class because you've had training in Python befo
    </tr>
     <tr>
     <td>not 19.12</td>
-    <td>Databases</td>
+    <td>Databases?</td>
     <td></td>
     <td></td>
     <td></td>
