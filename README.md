@@ -12,8 +12,8 @@ Fri (+ Wed, Sat), 18.10 - 21.00
 ### Grade calculator (approximately)
 * **30% - assignment 1** (can be completed on the evening for the max. of 10 points, within a week of the distribution for the max. of 8 points, within two weeks of the distribution for the max. of 6 points)
 * **30% - assignment 2** (can be completed on the evening for the max. of 10 points, within a week of the distribution for the max. of 8 points, within two weeks of the distribution for the max. of 6 points)
-* **10% - assignment 3** (can be completed on the evening for the max. of 10 points, within a week of the distribution for the max. of 8 points, within two weeks of the distribution for the max. of 6 points)
-* **30% - assignment 4** (can be completed on the evening for the max. of 10 points, within a week of the distribution for the max. of 8 points, within two weeks of the distribution for the max. of 6 points)
+* **30% - assignment 3** (can be completed on the evening for the max. of 10 points, within a week of the distribution for the max. of 8 points, within two weeks of the distribution for the max. of 6 points)
+* **10% - assignment 4** (can be completed on the evening for the max. of 10 points, within a week of the distribution for the max. of 8 points, within two weeks of the distribution for the max. of 6 points)
 
 There is no exam. Final grade is rounded in favor of the student. 
 
@@ -72,7 +72,7 @@ If you opt out of attending the class because you've had training in Python befo
     <td>21.11.</td>
     <td>Pandas
   </td>
-    <td>Assignment 3</a></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -80,7 +80,7 @@ If you opt out of attending the class because you've had training in Python befo
     <td>28.11</td>
     <td>Vectorization
   </td>
-    <td>Assignment 4</td>
+    <td>Assignment 3</td>
   <td></td>
     <td></td>
   </tr>
@@ -88,7 +88,7 @@ If you opt out of attending the class because you've had training in Python befo
     <td>5.12</td>
     <td>HTML parsing<br>
     Graphs</td>
-    <td></td>
+    <td>Assignment 4</td>
     <td></td>
     <td></td>
   </tr>
