@@ -69,7 +69,7 @@ If you opt out of attending the class because you've had training in Python befo
   </td>
   </tr>
     <tr>
-    <td>20.11.</td>
+    <td>21.11.</td>
     <td>Pandas
   </td>
     <td>Assignment 3</a></td>
@@ -77,7 +77,7 @@ If you opt out of attending the class because you've had training in Python befo
     <td></td>
   </tr>
     <tr>
-    <td>27.11</td>
+    <td>28.11</td>
     <td>Vectorization
   </td>
     <td></td>
@@ -85,18 +85,26 @@ If you opt out of attending the class because you've had training in Python befo
     <td></td>
   </tr>
     <tr>
-    <td>11.12</td>
-    <td>Databases
-  </td>
+    <td>5.12</td>
+    <td>HTML parsing<br>
+    Graphs</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   </tr>
     <tr>
-    <td>01.11</td>
-    <td>HTML parsing<br>
+    <td>12.12</td>
+    <td>seminar by Anton B. :)<br>
     Graphs</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+   </tr>
+    <tr>
+    <td>not 19.12</td>
+    <td>Databases</td>
     <td></td>
     <td></td>
     <td></td>
