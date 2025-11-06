@@ -80,7 +80,7 @@ If you opt out of attending the class because you've had training in Python befo
     <td>28.11</td>
     <td>Vectorization
   </td>
-    <td></td>
+    <td>Assignment 4</td>
   <td></td>
     <td></td>
   </tr>
