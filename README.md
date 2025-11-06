@@ -9,11 +9,9 @@ Fri (+ Wed, Sat), 18.10 - 21.00
 ### Instructor
 * Tania Kazakova (Tania, Таня Казакова)
 
-### Grade calculator (approximately)
-* **30% - assignment 1** (can be completed on the evening for the max. of 10 points, within a week of the distribution for the max. of 8 points, within two weeks of the distribution for the max. of 6 points)
-* **30% - assignment 2** (can be completed on the evening for the max. of 10 points, within a week of the distribution for the max. of 8 points, within two weeks of the distribution for the max. of 6 points)
-* **30% - assignment 3** (can be completed on the evening for the max. of 10 points, within a week of the distribution for the max. of 8 points, within two weeks of the distribution for the max. of 6 points)
-* **10% - assignment 4** (can be completed on the evening for the max. of 10 points, within a week of the distribution for the max. of 8 points, within two weeks of the distribution for the max. of 6 points)
+### Grades
+
+Several home assignments (TBA)
 
 There is no exam. Final grade is rounded in favor of the student. 
 
