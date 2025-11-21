@@ -45,42 +45,42 @@ If you opt out of attending the class because you've had training in Python befo
   </tr>
   <tr>
     <td>12.11. </td>
+    <td>Datatypes and variables
+  </td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+    <tr>
+    <td>14.11.</td>
+    <td>Cycles, functions
+    </td>
+    <td></td>
+    <td></td>
+    <td>
+  </td>
+  </tr>
+    <tr>
+    <td>21.11.</td>
     <td>Regular expressions<br>
       Text manipulation
   </td>
     <td>Assignment 1</td>
     <td></td>
-    <td><a href="https://www.rexegg.com/regex-quickstart.html">Regular expressions cheat sheet</a><br>
-        <a href="https://www.w3schools.com/python/python_regex.asp">Tutorial</a></td>
-   </tr>
-    <tr>
-    <td>14.11.</td>
-    <td>Classes<br>
-      Pymystem, pymorphy</a><br>
-      Syntactic parsing</a><br>
-      NER
-    </td>
-    <td>Assignment 2</td>
-    <td></td>
-    <td><a href="https://www.w3schools.com/python/python_classes.asp">Tutorial on classes</a><br>
-      <a href="https://yandex.ru/dev/mystem/">Mystem</a>
-  </td>
-  </tr>
-    <tr>
-    <td>21.11.</td>
-    <td>Pandas
-  </td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>a href="https://www.rexegg.com/regex-quickstart.html">Regular expressions cheat sheet</a><br>
+        <a href="https://www.w3schools.com/python/python_regex.asp">Tutorial</a><</td>
   </tr>
     <tr>
     <td>28.11</td>
-    <td>Vectorization
+    <td>Classes<br>
+      Pymystem, pymorphy</a><br>
+      Syntactic parsing</a><br>
+      NER, Pandas, Vectorization
   </td>
-    <td>Assignment 3</td>
+    <td>Assignment 2</td>
   <td></td>
-    <td></td>
+    <td><a href="https://www.w3schools.com/python/python_classes.asp">Tutorial on classes</a><br>
+      <a href="https://yandex.ru/dev/mystem/">Mystem</a></td>
   </tr>
     <tr>
     <td>5.12</td>
