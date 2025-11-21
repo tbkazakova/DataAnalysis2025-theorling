@@ -67,8 +67,8 @@ If you opt out of attending the class because you've had training in Python befo
   </td>
     <td>Assignment 1</td>
     <td></td>
-    <td>a href="https://www.rexegg.com/regex-quickstart.html">Regular expressions cheat sheet</a><br>
-        <a href="https://www.w3schools.com/python/python_regex.asp">Tutorial</a><</td>
+    <td><a href="https://www.rexegg.com/regex-quickstart.html">Regular expressions cheat sheet</a><br>
+        <a href="https://www.w3schools.com/python/python_regex.asp">Tutorial</a></td>
   </tr>
     <tr>
     <td>28.11</td>
