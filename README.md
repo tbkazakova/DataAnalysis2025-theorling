@@ -30,7 +30,7 @@ If you opt out of attending the class because you've had training in Python befo
     <td>07.11. </td>
     <td>Interacting with Python and basic functions<br>
       Markdown<br>
-      Datatypes and variables
+      [Datatypes and variables](https://github.com/tbkazakova/DataAnalysis2025-theorling/blob/main/seminars/1_start.ipynb)
     <td></td>
     <td></td>
     <td>1. <a href="https://docs.python.org/3.6/library/stdtypes.html#typesnumeric">numeric types</a><br>
@@ -45,7 +45,7 @@ If you opt out of attending the class because you've had training in Python befo
   </tr>
   <tr>
     <td>12.11. </td>
-    <td>Datatypes and variables
+    <td>[Datatypes and variables](https://github.com/tbkazakova/DataAnalysis2025-theorling/blob/main/seminars/1_start.ipynb)
   </td>
     <td></td>
     <td></td>
@@ -53,7 +53,7 @@ If you opt out of attending the class because you've had training in Python befo
    </tr>
     <tr>
     <td>14.11.</td>
-    <td>Cycles, functions
+    <td>[Cycles, functions](https://github.com/tbkazakova/DataAnalysis2025-theorling/blob/main/seminars/251121_files.ipynb)
     </td>
     <td></td>
     <td></td>
