@@ -28,9 +28,9 @@ If you opt out of attending the class because you've had training in Python befo
   </tr>
    <tr>
     <td>07.11. </td>
-    <td>Interacting with Python and basic functions<br>
+    <td><a href="https://github.com/tbkazakova/DataAnalysis2025-theorling/blob/main/seminars/1_start.ipynb">Interacting with Python and basic functions<br>
       Markdown<br>
-      [Datatypes and variables](https://github.com/tbkazakova/DataAnalysis2025-theorling/blob/main/seminars/1_start.ipynb)
+      Datatypes and variables
     <td></td>
     <td></td>
     <td>1. <a href="https://docs.python.org/3.6/library/stdtypes.html#typesnumeric">numeric types</a><br>
