@@ -30,7 +30,7 @@ If you opt out of attending the class because you've had training in Python befo
     <td>07.11. </td>
     <td><a href="https://github.com/tbkazakova/DataAnalysis2025-theorling/blob/main/seminars/1_start.ipynb">Interacting with Python and basic functions<br>
       Markdown<br>
-      Datatypes and variables
+      Datatypes and variables</a>
     <td></td>
     <td></td>
     <td>1. <a href="https://docs.python.org/3.6/library/stdtypes.html#typesnumeric">numeric types</a><br>
@@ -45,7 +45,7 @@ If you opt out of attending the class because you've had training in Python befo
   </tr>
   <tr>
     <td>12.11. </td>
-    <td>[Datatypes and variables](https://github.com/tbkazakova/DataAnalysis2025-theorling/blob/main/seminars/1_start.ipynb)
+    <td><a href="https://github.com/tbkazakova/DataAnalysis2025-theorling/blob/main/seminars/1_start.ipynb">Datatypes and variables</a>
   </td>
     <td></td>
     <td></td>
@@ -53,7 +53,7 @@ If you opt out of attending the class because you've had training in Python befo
    </tr>
     <tr>
     <td>14.11.</td>
-    <td>[Cycles, functions](https://github.com/tbkazakova/DataAnalysis2025-theorling/blob/main/seminars/251121_files.ipynb)
+    <td><a href="https://github.com/tbkazakova/DataAnalysis2025-theorling/blob/main/seminars/1_start.ipynb">Cycles, functions</a>
     </td>
     <td></td>
     <td></td>
@@ -62,10 +62,10 @@ If you opt out of attending the class because you've had training in Python befo
   </tr>
     <tr>
     <td>21.11.</td>
-    <td>[Regular expressions](https://github.com/tbkazakova/DataAnalysis2025-theorling/blob/main/seminars/251121_re.ipynb)<br>
-      [Text manipulation](https://github.com/tbkazakova/DataAnalysis2025-theorling/blob/main/seminars/251121_files.ipynb)
+    <td><a href="https://github.com/tbkazakova/DataAnalysis2025-theorling/blob/main/seminars/251121_re.ipynb">Regular expressions</a><br>
+      <a href="https://github.com/tbkazakova/DataAnalysis2025-theorling/blob/main/seminars/251121_files.ipynb">Text manipulation</a>
   </td>
-    <td>[Assignment 1](https://github.com/tbkazakova/DataAnalysis2025-theorling/blob/main/hw/hw1_python.ipynb)</td>
+    <td><a href="https://github.com/tbkazakova/DataAnalysis2025-theorling/blob/main/hw/hw1_python.ipynb">Assignment 1]</a></td>
     <td></td>
     <td><a href="https://www.rexegg.com/regex-quickstart.html">Regular expressions cheat sheet</a><br>
         <a href="https://www.w3schools.com/python/python_regex.asp">Tutorial</a></td>
