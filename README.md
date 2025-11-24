@@ -11,7 +11,7 @@ Fri (+ Wed, Sat), 18.10 - 21.00
 
 ### Grades
 
-Several home assignments (TBA)
+4 home assignments
 
 There is no exam. Final grade is rounded in favor of the student. 
 
@@ -65,7 +65,7 @@ If you opt out of attending the class because you've had training in Python befo
     <td><a href="https://github.com/tbkazakova/DataAnalysis2025-theorling/blob/main/seminars/251121_re.ipynb">Regular expressions</a><br>
       <a href="https://github.com/tbkazakova/DataAnalysis2025-theorling/blob/main/seminars/251121_files.ipynb">Text manipulation</a>
   </td>
-    <td><a href="https://github.com/tbkazakova/DataAnalysis2025-theorling/blob/main/hw/hw1_python.ipynb">Assignment 1]</a></td>
+    <td><a href="https://github.com/tbkazakova/DataAnalysis2025-theorling/blob/main/hw/hw1_python.ipynb">Assignment 1</a></td>
     <td></td>
     <td><a href="https://www.rexegg.com/regex-quickstart.html">Regular expressions cheat sheet</a><br>
         <a href="https://www.w3schools.com/python/python_regex.asp">Tutorial</a></td>
