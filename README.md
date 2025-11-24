@@ -62,10 +62,10 @@ If you opt out of attending the class because you've had training in Python befo
   </tr>
     <tr>
     <td>21.11.</td>
-    <td>Regular expressions<br>
-      Text manipulation
+    <td>[Regular expressions](https://github.com/tbkazakova/DataAnalysis2025-theorling/blob/main/seminars/251121_re.ipynb)<br>
+      [Text manipulation](https://github.com/tbkazakova/DataAnalysis2025-theorling/blob/main/seminars/251121_files.ipynb)
   </td>
-    <td>Assignment 1</td>
+    <td>[Assignment 1](https://github.com/tbkazakova/DataAnalysis2025-theorling/blob/main/hw/hw1_python.ipynb)</td>
     <td></td>
     <td><a href="https://www.rexegg.com/regex-quickstart.html">Regular expressions cheat sheet</a><br>
         <a href="https://www.w3schools.com/python/python_regex.asp">Tutorial</a></td>
