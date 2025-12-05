@@ -32,9 +32,10 @@ Find such summaries and save them in a dictionary in which the keys are chapter 
 For example:
 ```
 {'I': 'Three invalids. Sufferings of George and Harris. (...) Original motion carried by majority of three to one.',
-'II': 'Plans discussed. Pleasures of “camping-out,” on fine nights. Ditto, wet nights. (...) Meeting adjourns.'}
+'II': 'Plans discussed. Pleasures of “camping-out,” on fine nights. Ditto, wet nights. (...) Meeting adjourns.'
+...}
 ```
-Find such summaries and save them in a dictionary in which the keys are chapter numbers and the values ​​are summaries without the "-" symbols.
+Find such summaries and save them in a dictionary in which the keys are chapter numbers and the values ​​are summaries without the "-" symbols. (There are 19 chapters in the text.)
 
 ## 3. No pictures (3 points)
 This file marks the places where there were pictures in the book.
