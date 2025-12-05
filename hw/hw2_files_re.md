@@ -46,7 +46,7 @@ For example:
 [Picture: Montmorency] 
 ```
 
-Remove all such references to pictures from the text and save it to the file `no_pictures.txt`.
+Remove all such references to pictures from the text and save the remaining text to `no_pictures.txt` file.
 
 Tip: use regular expressions.
 
