@@ -1,4 +1,7 @@
 # Homework 4
+
+Notebook from the seminar: https://github.com/tbkazakova/DataAnalysis2025-theorling/blob/main/seminars/251212_html.ipynb
+
 Choose any non-English website that contains news, articles, or other texts on different web pages, and a page that links to them.
 1. Write code to get the title and text from one page. (2 points)
 2. Write code that takes at least 20 links from the main page(s) and then get their titles and texts with the code from the previous step. (3 points)
